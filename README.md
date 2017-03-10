@@ -1,5 +1,5 @@
 # squares-war
-Simple game about dealing damage and winning.
+Classic, single player deathmatch game.
 
 ![squares-war](http://i.imgur.com/oboWRYc.png)
 
