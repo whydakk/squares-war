@@ -10,4 +10,4 @@ The goal is to beat down nine opponents or deal the most damage before the time 
 
 Goodluck!
 
-Also you can download playable version from here -> http://gasionet.pl/dlsquares-war.php
+Also you can download playable version from here -> http://gasionet.pl/game/squares-war.jar
